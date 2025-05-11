@@ -1,1 +1,1 @@
-# coursemeadbtable
+# sqltablepractice
